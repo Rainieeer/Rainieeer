@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Mark Rainier Copioso
 
-![GitHub Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+My+Profile)
-
 ## 🚀 About Me
 I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic University**, Philippines. Passionate about technology, innovation, and problem-solving, I specialize in **Advanced Machine Learning** and have a foundational knowledge of **Web Development**. 
 

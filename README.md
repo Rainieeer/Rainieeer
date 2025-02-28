@@ -25,6 +25,6 @@ I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic Univ
 
 
 ## 📫!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mark-rainier-copioso-010719324/)
 [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)

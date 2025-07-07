@@ -2,6 +2,8 @@
 
 I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic University**, Philippines. I’m passionate about technology, innovation, and solving real-world problems. My main interests are in **Advanced Machine Learning** and **Web Development**.
 
+> **Mission:** To leverage technology and data-driven solutions to make a positive impact in the world.
+
 ---
 
 ## 🚀 Skills & Expertise
@@ -28,11 +30,38 @@ I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic Univ
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rainieeer&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainieeer&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rainieeer&theme=github-dark" alt="GitHub Streak" height="150"/>
+</p>
+
+---
+
+## 🏆 Achievements & Projects
+
+- 🥇 Winner, [Your Hackathon Name] (Year)
+- 🚀 Creator of [ResumeAI](https://github.com/Rainieeer/ResuAI)
+- 📄 Published [Your Paper/Article Title] (if any)
+- 🌱 Currently learning advanced deep learning and cloud deployment
+
+---
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mark-rainier-copioso-010719324/)
 [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue?style=for-the-badge&logo=twitter)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rainieeer&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 ---
 

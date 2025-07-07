@@ -4,8 +4,6 @@ I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic Univ
 
 > **Mission:** To leverage technology and data-driven solutions to make a positive impact in the world.
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rainieeer&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rainieeer&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>

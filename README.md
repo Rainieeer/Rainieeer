@@ -2,7 +2,6 @@
 
 I'm a **Third-Year Computer Science Student** at **Laguna State Polytechnic University**, Philippines. I’m passionate about technology, innovation, and solving real-world problems. My main interests are in **Advanced Machine Learning** and **Web Development**.
 
-> **Mission:** To leverage technology and data-driven solutions to make a positive impact in the world.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rainieeer&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
